@@ -21,10 +21,13 @@ Este projeto foi desenvolvido durante o curso preparatório da certificação AW
 ## 📸 Screenshots
 
 ### Página Web hospedada na instância EC2:
-![apache online](./images/apache-test-page.jpeg)
+![1748730931216](https://github.com/user-attachments/assets/0ab01931-1543-4b32-a500-10f16a31fc11)
 
 ### CloudShell com criação via CLI:
-![cloudshell ec2](./images/ec2-cli-cloudshell.jpeg)
+![1748730931272](https://github.com/user-attachments/assets/d3e7b00e-5e21-4852-b32d-eb10bf6cca06)
+![1748730931288](https://github.com/user-attachments/assets/b58ecff0-fd9a-4b60-83c4-80c6226afb33)
+
+
 
 ## 📦 User Data Script usado
 
